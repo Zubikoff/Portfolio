@@ -46,7 +46,7 @@ What was needed:
 How it was managed:
 - Updated test-plan from **Project #1**
 - Created Postman collection of API test cases based on functional check-list
-- COnducted API testing; created bug reports
+- Conducted API testing; created bug reports
 - Updated test report with results of API testing
 
 > [Link to the project](https://pavelzubar.atlassian.net/l/cp/m41cFKeC "Confluence page")
