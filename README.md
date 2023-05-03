@@ -7,7 +7,7 @@ In this repository you can see some of my projects created during my study and p
 
 ## Skills and technologies
 
-`Jira`, `qase.io`, `Postman`, `SoapUI`, `Mockoon`, `Apache JMeter`, `SQL`, `MS Edge DevTools`
+`Jira`, `qase.io`, `Postman`, `SoapUI`, `Mockoon`, `SQL`, `MS Edge DevTools`
 
 ## Projects
 
@@ -20,20 +20,21 @@ What was needed:
 4. Create a test report
 
 How it was managed: 
-- Created a new Confluence page
-- Analyzed software requirements
-- Created acceptance test cases
-- Created product decomposition
-- Created test-plan
-- Created functional check-list and smoke test cases
-- Conducted testing; created bug reports
-- Created test report
+- Created main project page using [Confluence](https://www.atlassian.com/software/confluence)
+- Analyzed project requirements
+- Created test cases and test suites using [qase.io](https://app.qase.io/)
+- Created product decomposition using [Miro](https://miro.com/)
+- Created functional check-list using [Checkvist](https://checkvist.com/)
+- Created bug reports using [Jira](https://www.atlassian.com/software/jira)
 
 > [Link to the project](https://pavelzubar.atlassian.net/l/cp/m41cFKeC "Confluence page")
 >
 > Login: pavelzubar@gmail.com
 >
 > Password: J!raS0ft
+
+Conclusions:
+1. 
 
 ### Project #2: testing API part of web-application for teachers from SkyEng
 
@@ -44,10 +45,8 @@ What was needed:
 4. Update test report based on API testing results
 
 How it was managed:
-- Updated test-plan from **Project #1**
-- Created Postman collection of API test cases based on functional check-list
-- Conducted API testing; created bug reports
-- Updated test report with results of API testing
+- Analyzed project API requests using browser DevTools
+- Created [Postman](https://www.postman.com/) collection of API test cases based on functional check-list
 
 > [Link to the project](https://pavelzubar.atlassian.net/l/cp/m41cFKeC "Confluence page")
 >
