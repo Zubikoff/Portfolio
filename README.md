@@ -13,6 +13,8 @@ In this repository you can see some of my projects created during my study and p
 
 ### Project #1: testing web-application for teachers from SkyEng
 
+Description: editable calendar to help teachers to manage and organize their schedule, including personal and group lessons and personal events
+
 What was needed:
 1. Create test-plan
 2. Prepare test documentation
@@ -34,9 +36,12 @@ How it was managed:
 > Password: J!raS0ft
 
 Conclusions:
-1. 
+1. Tested real product
+2. Learned to compile different test documentation into one summary report
 
 ### Project #2: testing API part of web-application for teachers from SkyEng
+
+Description: API part of *Project #1*
 
 What was needed:
 1. Update test-plan
@@ -53,6 +58,9 @@ How it was managed:
 > Login: pavelzubar@gmail.com
 >
 > Password: J!raS0ft
+
+Conclusions:
+1. Learned to retrieve API requests from UI page using browser DevTools
 
 ## Contacts
 * Email: <pavelzubar@gmail.com>
