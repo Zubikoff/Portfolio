@@ -7,7 +7,7 @@ In this repository you can see some of my projects created during my study and p
 
 ## Skills and technologies
 
-`Jira`, `qase.io`, `Postman`, `SoapUI`, `Mockoon`, `SQL`, `MS Edge DevTools`
+`Jira`, `qase.io`, `Postman`, `SoapUI`, `Mockoon`, `SQL`, `DevTools`
 
 ## Projects
 
