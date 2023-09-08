@@ -30,10 +30,6 @@ How it was managed:
 - Created bug reports using [Jira](https://www.atlassian.com/software/jira)
 
 > [Link to the project](https://pavelzubar.atlassian.net/l/cp/m41cFKeC "Confluence page")
->
-> Login: pavelzubar@gmail.com
->
-> Password: J!raS0ft
 
 Conclusions:
 1. Tested real product
@@ -54,10 +50,6 @@ How it was managed:
 - Created [Postman](https://www.postman.com/) collection of API test cases based on functional check-list
 
 > [Link to the project](https://pavelzubar.atlassian.net/l/cp/m41cFKeC "Confluence page")
->
-> Login: pavelzubar@gmail.com
->
-> Password: J!raS0ft
 
 Conclusions:
 1. Learned to retrieve API requests from UI page using browser DevTools
@@ -81,10 +73,6 @@ How it was managed:
 - Created bug reports using [Jira](https://www.atlassian.com/software/jira)
 
 > [Link to the project](https://pavelzubar.atlassian.net/l/cp/9w0HNhzJ "Confluence page")
->
-> Login: pavelzubar@gmail.com
->
-> Password: J!raS0ft
 
 Conclusions:
 1. Tested real mobile application
@@ -109,10 +97,6 @@ How it was managed:
 - Created bug reports using [Jira](https://www.atlassian.com/software/jira)
 
 > [Link to the project](https://pavelzubar.atlassian.net/l/cp/Tguea1uz "Confluence page")
->
-> Login: pavelzubar@gmail.com
->
-> Password: J!raS0ft
 
 Conclusions:
 1. Tested real mobile application and web application and interaction between them
